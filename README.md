@@ -1,0 +1,3 @@
+This repository contains some examples written using Swift.
+
+I'm primarily just messing around...
